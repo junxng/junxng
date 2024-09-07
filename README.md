@@ -1,5 +1,6 @@
 # 💫 About Me:
-Last year student at FPT University. Major is Artificial Intelligence (Applied Data Science).
+FPT University.
+Artificial Intelligence (Applied Data Science) Developer.
 
 
 ## 🌐 Socials:
