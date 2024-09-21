@@ -2,7 +2,7 @@
 
 FPT University.
 
-Artificial Intelligence (Applied Data Science) Developer.
+Artificial Intelligence (Applied Data Science) Engineer.
 
 
 ## 🌐 Socials:
