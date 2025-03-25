@@ -2,7 +2,7 @@
 
 FPT University.
 
-Artificial Intelligence (Applied Data Science) Engineer.
+Artificial Intelligence (LLM) Engineer.
 
 
 ## 🌐 Socials:
